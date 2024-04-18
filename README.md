@@ -1,3 +1,5 @@
+***Chinese version [here](README_zh.md)***
+
 # fisrt thing to say  
 Wow! You discovered this simple program! I feel a bit ashamed - because this program is really too simple!🤣
 
