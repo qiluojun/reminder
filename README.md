@@ -5,7 +5,7 @@ But I still chose to open this repository - I believe programming experts are fr
 
 I hope you won't be scared away by the rudimentary program haha~I will slowly update this program, and perhaps one day, this program will actually help others! Looking forward to it!(●'◡'●)
 
-Also, I would like to thank [skywind3000][skywind3000](https://github.com/skywind3000/PyStand)!!!Your Zhihu tutorials and GitHub library have benefited me a lot!🥳
+Also, I would like to thank [skywind3000](https://github.com/skywind3000/PyStand)!!!Your Zhihu tutorials and GitHub library have benefited me a lot!🥳
 
 # why is it here ? 
 The reason why it appears here is not only to commemorate, but also to practice the ability to use git to control version development.
