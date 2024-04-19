@@ -12,7 +12,7 @@ Also, I would like to thank [skywind3000](https://github.com/skywind3000/PyStand
 # why is it here ? 
 The reason why it appears here is not only to commemorate, but also to practice the ability to use git to control version development.
 
-On the one hand, this is the first program I wrote, although it was very simple (both in terms of functionality and UI), it still allowed me to experience the joy of autonomous programming. Thank you very much to the AI teachers who helped me along the way. Without you, I would definitely have given up when the first bug popped up. Its beginning was just a small interest, and I never imagined that a rough little software from over a year ago would guide me towards the path I am today, it's amazing!
+On the one hand, **this is the first program I wrote**, although it was very simple (both in terms of functionality and UI), it still allowed me to experience the joy of autonomous programming. Thank you very much to the AI teachers who helped me along the way. Without you, I would definitely have given up when the first bug popped up. Its beginning was just a small interest, and I never imagined that a rough little software from over a year ago would guide me towards the path I am today, it's amazing!
 
 On the other hand, I am starting to practice using git to control version development. Although I have been exposed to GitHub for a long time and have seen various magical software from various experts on it, I never imagined that one day I would join this big family as a beginner. Since it's for practicing, of course I'll start with my simplest program. After I become familiar with the process, I will gradually add other slightly more complex programs~
 
